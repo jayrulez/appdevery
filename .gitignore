@@ -6,15 +6,14 @@ ehthumbs.db
 Desktop.ini
 
 artifacts/
-src\Appdevery.API\bin\*
-src\Appdevery.API\obj\*
-src\Appdevery.Core\bin\*
-src\Appdevery.Core\obj\*
-src\Appdevery.IdentityServer\bin\*
-src\Appdevery.IdentityServer\obj\*
-src\Appdevery.Web\bin\*
-src\Appdevery.Web\obj\*
-src\Appdevery.Web\node_modules\*
+src/Appdevery.API/bin/
+src/Appdevery.API/obj/
+src/Appdevery.Core/bin/
+src/Appdevery.Core/obj/
+src/Appdevery.IdentityServer/bin/
+src/Appdevery.IdentityServer/obj/
+src/Appdevery.Web/bin/
+src/Appdevery.Web/obj/
 src/Appdevery.Web/node_modules/
 .vs
 *.user
